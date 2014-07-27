@@ -1,0 +1,164 @@
+#server development/update notes
+
+2/8/14
+UberEnchant plugin updated to latest
+
+DisguiseCraft plugin updated to latest
+
+1/28/14
+CraftBook plugin updated to latest version
+
+ProtocolLib plugin updated to latest version
+
+Vault plugin updated to latest version
+
+Mybb register plugin added
+
+Essentials plugin updated to latest version
+
+EssentialsSpawn plugin updated to latest version
+
+VanishNoPacket plugin updated to latest version
+
+
+1/23/14
+CraftBook plugin updated to latest version
+
+ProtocolLib plugin updated to latest version
+
+In essentials config lava flow has been disabled
+
+CommunityBirdge and MyBB plugins register disabled
+
+
+1/21/14
+MyPet plugin removed(Was not working.)
+
+MyBB register plugin added
+
+CommunityBridge plugin added
+
+Email plugin added back
+
+Added a few WorldEdit commands for SuperModerators rank
+
+mcMMO plugin added back
+
+
+1/20/14
+MyPet plugin updated to latest version
+
+
+1/16/14
+Setting up a better safer commands permissions file and will keep improving
+
+CraftBook plugin updated to latest
+
+PurpleIRC plugin updated latest
+
+UberEnchant plugin updated latest
+
+VanishNoPacket no longer checks for updates as CraftBukkitUpToDate already does
+
+
+1/10/14
+AutoSaver plugin added for saving the world more often
+
+CraftBook plugin updated to latest version
+
+Vault plugin updated to latest version
+
+ChestShop updated to latest version
+
+ProtocolLib plugin updated to latest version
+
+PurpleIRC plugin updated to latest version
+
+
+1/2/14
+MyPet test build plugin for 1.7 added
+
+VanishNoPacket added
+
+
+12/22/13
+Server updated with bukkit #2974 1.7.2 beta build
+
+/help command should be fixed for Moderations
+
+/delhome command should be fixed for Moderators
+
+
+12/20/13
+Server updated with bukkit #2969 1.7.2 beta build
+
+CraftBook plugin updated to latest version
+
+MobManager plugin updated to latest version
+
+UberEnchant plugin updated to latest version
+
+Essentials plugin updated to latest version
+
+EssentialsSpawn plugin updated to latest version
+
+ChestShop plugin updated to latest version
+
+WeatherMan plugin updated to the latests version
+
+
+12/14/13
+
+PurpleIRC plugin added for cross server chat with DungeonMan10’s minecraft server
+
+VanishNoPacket disabled
+
+Server updated with bukkit #2957 1.7.2 dev build
+
+
+12/12/13
+Server updated with bukkit #2954 1.7.2 dev build
+
+ProtocolLib plugin added
+
+CraftBook Chairs is enabled
+
+
+12/9/13
+Server updated with bukkit #2951 1.7.2 dev build
+
+DisguiseCraft test build plugin added
+
+Plugins updated: CraftBook, WorldEdit, VanishNoPacket, ChestShop & MobManager
+
+Removed world prefix from MultiVerse Core
+
+
+12/3/13
+Server updated with bukkit #2935 1.7.2 dev build
+
+VanishNoPacket plugin re-enabled(Broken in the time being)
+
+TweetCraft Disabled(Not really needed)
+
+ProtocolLib Disabled(Broken)
+
+ChestShop updated to the lastest version
+
+MobManager updated to the lastest version
+
+Craftbook updated to the lastest version
+
+
+12/1/13
+Server updated with bukkit #2930 1.7.2 dev build
+
+Some plugins were disabled:
+VanishNoPacket, DisguiseCraft, ChestShop & mcMMO
+
+Plugins having problems:
+mcMMO, VanishNoPacket & ProtocolLib
+
+
+11/30/13
+Server updated with bukkit #2923 1.7.2 dev build
